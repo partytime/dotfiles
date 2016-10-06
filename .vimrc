@@ -191,7 +191,7 @@ set lbr
 "set tw=500
 
 set ai "Auto indent
-set si "Smart indent
+" set si "Smart indent
 set nowrap "Allow text to continue off the window, useful for really long command line
 
 
